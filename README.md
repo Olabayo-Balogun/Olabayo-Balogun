@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi I'm Olabayo 👋
 
-<!--
-**Theophilus125/theophilus125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a developer primarily focused on DotNet framework
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some web development projects
+- 🌱 I’m currently learning more about the DotNet Framework
+- 👯 I’m looking to collaborate on project that revolve around DotNet framework
+- 🤔 I’m looking for help with gaining mastery of the DotNet framework
+- 💬 Ask me about web development and C#
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love animes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[twitter]: https://twitter.com/Theophilus125
+[instagram]: https://www.instagram.com/olabayobalogun/
+[linkedin]: https://www.linkedin.com/in/olabayo-balogun-9a1207166/
