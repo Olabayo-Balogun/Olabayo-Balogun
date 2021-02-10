@@ -1,6 +1,6 @@
 ### Hi I'm Olabayo 👋
 
-## I'm a developer primarily focused on DotNet framework
+## I'm a developer primarily focused on .Net core
 
 - 🔭 I’m currently working on some web development projects
 - 🌱 I’m currently learning more about the DotNet Framework
