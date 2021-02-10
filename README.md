@@ -1,14 +1,14 @@
 ### Hi I'm Olabayo 👋
 
-## I'm a developer primarily focused on .Net core
+## I'm a developer primarily focused on .Net 
 
-- 🔭 I’m currently working on some web development projects
-- 🌱 I’m currently learning more about the DotNet Framework
-- 👯 I’m looking to collaborate on project that revolve around DotNet framework
-- 🤔 I’m looking for help with gaining mastery of the DotNet framework
-- 💬 Ask me about web development and C#
+- 🔭 I’m currently working on some web development projects.
+- 🌱 I’m currently learning more about the .Net technologies.
+- 👯 I’m looking to collaborate on project that revolve around .Net technologies.
+- 🤔 I’m looking for help with gaining mastery of the .Net technologies.
+- 💬 Ask me about web development and C#.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love animes.
+- ⚡ Fun fact: I love anime.
 
  
 🐦 [twitter][twitter] **|** 
