@@ -1,11 +1,11 @@
 ### Hi I'm Olabayo 👋
 
-## I'm a developer primarily focused on .Net and Flutter
+## I'm a developer primarily focused on .Net
 
 - 🔭 I’m currently working on some web development projects.
-- 🌱 I’m currently learning more about the .Net and Flutter technologies.
+- 🌱 I’m currently learning more about the .Net technologies.
 - 👯 I’m looking to collaborate on project that revolve around .Net technologies.
-- 🤔 I’m looking for help with gaining mastery of the .Net and Flutter technologies.
+- 🤔 I’m looking for help with gaining mastery of the .Net technologies.
 - 💬 Ask me about fullstack development and C#.
 - ⚡ Fun fact: I love anime.
 
