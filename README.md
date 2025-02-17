@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about the .Net technologies.
 - 👯 I’m looking to collaborate on project that revolve around .Net technologies.
 - 🤔 I’m looking for help with gaining mastery of the .Net technologies.
-- 💬 Ask me about fullstack development and C#.
+- 💬 Ask me about .Net development.
 - ⚡ Fun fact: I love anime.
 
  
