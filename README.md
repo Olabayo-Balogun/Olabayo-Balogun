@@ -1,4 +1,4 @@
-### Hi I'm Olabayo 👋
+### Hi I'm Olabayo Balogun👋
 
 ## I'm a developer primarily focused on .Net
 
