@@ -2,7 +2,7 @@
 
 ## I'm a developer primarily focused on .Net
 
-- 🔭 I’m currently working on [GovWatch](https://www.govwatch.ng/) and [DTT](https://staging.dtt.ng/).
+- 🔭 I’m currently working on [Afrotada](https://www.afrotada.com), [GovWatch](https://www.govwatch.ng), and [DTT](https://staging.dtt.ng).
 - 🌱 I’m currently learning more about the .Net technologies.
 - 👯 I’m looking to collaborate on projects that revolve around .Net technologies.
 - 🤔 I’m looking for help with gaining mastery of the .Net technologies.
